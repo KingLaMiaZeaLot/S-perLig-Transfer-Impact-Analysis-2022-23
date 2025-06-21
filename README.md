@@ -20,15 +20,6 @@ This comprehensive project provides an in-depth analysis of player transfers and
 
 ---
 
-## 🗂 Project Structure
-
-super_lig_analysis/
-├── assets/ # High-quality PNG visualizations
-├── super_lig_analysis.py # Complete Python analysis script
-├── super_lig_transfers_2022_2023.csv # Curated dataset used for analysis
-└── README.md # This project overview and documentation
-
-
 ---
 
 ## 🚀 Technologies & Tools
@@ -36,7 +27,7 @@ super_lig_analysis/
 - Python 3.x  
 - Data manipulation: Pandas, NumPy  
 - Data visualization: Matplotlib, Seaborn  
-- Interactive analysis: Jupyter Notebook  
+
 
 ---
 
