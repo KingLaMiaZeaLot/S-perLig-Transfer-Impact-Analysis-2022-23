@@ -1,0 +1,31 @@
+Player,Team,Position,Fee (M€),Goals,Assists,Rating,Contribution,Value,Fee Category
+Mauro Icardi,Galatasaray,Forward,10.0,22,8,7.8,30,3.0,High (€5-10M)
+Dries Mertens,Galatasaray,Forward,0.0,8,9,7.6,17,50.0,Free
+Lucas Torreira,Galatasaray,Midfielder,6.0,0,4,7.3,4,0.6666666666666666,High (€5-10M)
+Nicolò Zaniolo,Galatasaray,Midfielder,16.4,5,5,7.0,10,0.6097560975609757,Premium (>€10M)
+Sacha Boey,Galatasaray,Defender,1.1,1,4,7.2,5,4.545454545454545,Low (≤€2M)
+Victor Nelsson,Galatasaray,Defender,7.0,2,1,7.1,3,0.42857142857142855,High (€5-10M)
+Michy Batshuayi,Fenerbahçe,Forward,3.5,12,4,7.1,16,4.571428571428571,Medium (€2-5M)
+João Pedro,Fenerbahçe,Forward,3.0,5,3,6.8,8,2.6666666666666665,Medium (€2-5M)
+Joshua King,Fenerbahçe,Forward,0.5,8,2,6.9,10,20.0,Low (≤€2M)
+Lincoln Henrique,Fenerbahçe,Midfielder,2.2,3,7,7.0,10,4.545454545454545,Medium (€2-5M)
+Ferdi Kadıoğlu,Fenerbahçe,Defender,0.0,2,6,7.3,8,50.0,Free
+Attila Szalai,Fenerbahçe,Defender,2.0,1,2,7.0,3,1.5,Low (≤€2M)
+Cenk Tosun,Beşiktaş,Forward,0.0,15,3,7.4,18,50.0,Free
+Nathan Redmond,Beşiktaş,Midfielder,0.0,3,6,6.9,9,50.0,Free
+Gedson Fernandes,Beşiktaş,Midfielder,6.0,2,9,7.2,11,1.8333333333333333,High (€5-10M)
+Romain Saïss,Beşiktaş,Defender,2.5,4,1,7.1,5,2.0,Medium (€2-5M)
+Arthur Masuaku,Beşiktaş,Defender,2.0,1,7,7.0,8,4.0,Low (≤€2M)
+Vincent Aboubakar,Beşiktaş,Forward,0.0,12,4,7.3,16,50.0,Free
+Valentin Rosier,Beşiktaş,Defender,0.0,1,3,7.0,4,50.0,Free
+Cherif Ndiaye,Karagümrük,Forward,0.8,14,4,7.2,18,22.5,Low (≤€2M)
+M'Baye Niang,Adana Demirspor,Forward,3.5,18,5,7.5,23,6.571428571428571,Medium (€2-5M)
+Younès Belhanda,Karagümrük,Midfielder,1.2,6,11,7.4,17,14.166666666666668,Low (≤€2M)
+Emre Tezgel,Adana Demirspor,Forward,0.2,1,0,6.2,1,5.0,Low (≤€2M)
+Yusuf Sari,İstanbul Başakşehir,Midfielder,1.5,7,8,7.1,15,10.0,Low (≤€2M)
+Stefano Okaka,İstanbul Başakşehir,Forward,0.0,10,3,7.0,13,50.0,Free
+Olimpiu Moruţan,Ankaragücü,Midfielder,0.5,9,6,7.3,15,30.0,Low (≤€2M)
+Pedro Henrique,Trabzonspor,Forward,4.0,11,4,7.0,15,3.75,Medium (€2-5M)
+Maxi Gómez,Trabzonspor,Forward,3.0,13,3,7.1,16,5.333333333333333,Medium (€2-5M)
+Trezeguet,Trabzonspor,Midfielder,4.0,9,8,7.4,17,4.25,Medium (€2-5M)
+Dimitrios Goutas,Sivasspor,Defender,0.5,5,1,7.0,6,12.0,Low (≤€2M)
